@@ -1,0 +1,9 @@
+﻿  Inventory Program.cpp
+E:\PROGRAMMING\C Family\C++\Inventory Program\Inventory Program\Inventory Program.cpp(114,9): warning C4101: 'i': unreferenced local variable
+E:\PROGRAMMING\C Family\C++\Inventory Program\Inventory Program\Inventory Program.cpp(165,19): warning C4101: 'j': unreferenced local variable
+E:\PROGRAMMING\C Family\C++\Inventory Program\Inventory Program\Inventory Program.cpp(216,16): warning C4244: 'return': conversion from 'long' to 'float', possible loss of data
+E:\PROGRAMMING\C Family\C++\Inventory Program\Inventory Program\Inventory Program.cpp(474,31): warning C4805: '==': unsafe mix of type 'int' and type 'bool' in operation
+E:\PROGRAMMING\C Family\C++\Inventory Program\Inventory Program\Inventory Program.cpp(134): warning C4715: 'trainee_allotment': not all control paths return a value
+E:\PROGRAMMING\C Family\C++\Inventory Program\Inventory Program\Inventory Program.cpp(381): warning C4715: 'fnmanage': not all control paths return a value
+E:\PROGRAMMING\C Family\C++\Inventory Program\Inventory Program\Inventory Program.cpp(62): warning C4715: 'alogin::adlogin': not all control paths return a value
+  Inventory Program.vcxproj -> E:\PROGRAMMING\C Family\C++\Inventory Program\x64\Debug\Inventory Program.exe
